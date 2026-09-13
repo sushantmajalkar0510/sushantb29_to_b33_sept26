@@ -1,0 +1,90 @@
+
+rahulvasal22@gmail.com
+skpsmartlearning@gmail.com
+
+SKP Training
+ https://meet.google.com/wqp-cipx-zfz?hs=146
+ 
+Daily Mockup 9:30pm : https://meet.google.com/gpt-homp-tyn?hs=146
+
+Weekend Mockup 1pm : https://meet.google.com/xdu-pqyk-svv
+ 
+ 
+ http://microsoft.com/
+ https://portal.azure.com/#home
+ 
+ 
+ Benifites of cloud computing
+ 1. Cost effective
+ 2. High secur
+ 3. Better storage
+ 4. Higly flexibility
+ 5. Scalibility
+ 6. Zero reductant
+ 7. Dizaster recovery lost prevent
+ 8. Automatic back up and s/w update
+ 9. Remote accessbility
+ 10. Low maintaince zero risk failure
+ 
+ Types of cloud
+ 1. Public cloud
+ 2. Private cloud
+ 3. Hybrid cloud - Combination of Public cloud and Private cloud
+ 4. Community cloud
+ 
+ Types of cloud services
+ 1. IAS - Infrastructure as a service
+ 2. PAS - Platform as a service
+ 3. SAS - s/w as a service
+ 
+ 
+ Homework
+ Create 1 - 1 file movement
+ Create multi file movement
+ Create Prefix movement
+ Create file extension movement
+ Create web resource movement
+ 
+ question - How to rename multiple files while pasting in sink folder
+ 
+ https://dummyjson.com/products
+ 
+ what is cloud computing
+ Benifites	of cloud computing
+ Types
+ 
+ 
+ what are Components of adf
+ what is pipeline
+ what is activity
+ what is link services
+ what is data set
+ what is integration runtime
+ what is trigger
+ what is data flow
+ what is difference between debug and trigger
+ what is importance of pipeline runid
+ 
+ what is difference between blob and adls
+ Ans: Blob storage is flat namespace; adls is hirarchical namespace
+	  Prefix option available; prefix option not available
+ 
+ what are types of access tier
+ Ans: Hot, cool and cold
+ 
+ what are redudancy
+ Ans: LRS → Cheapest, least resilient.
+	  ZRS → Protects against zone failures.
+      GRS/RA-GRS → Protects against regional disasters.
+	  GZRS/RA-GZRS → Combines zone + regional protection for maximum durability.
+ 
+ what are encryption
+ Ans: Microsoft-Managed Keys
+	  Customer-Managed Keys (CMK)
+ 
+ what are different type of data storage
+ Ans: Container
+	  File shares
+	  Queues
+	  Tables
+ 
